@@ -1,1 +1,1 @@
-bot: python bot.py
+bot: python km_hw_bot.py
